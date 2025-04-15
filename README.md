@@ -1,2 +1,10 @@
-# dify-plugin-bedrock-with-proxy
-bedrock with proxy
+## amazon-bedrock
+
+**Author:** aws
+**Version:** 0.0.1
+**Type:** extension
+
+### Description
+
+
+
